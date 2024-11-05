@@ -1,2 +1,2 @@
-név:
-osztály:
+név: Petró Leonárd
+osztály: 9.c
